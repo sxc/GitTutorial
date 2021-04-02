@@ -12,8 +12,9 @@ struct ContentView: View {
         Text("Hello, git!")
             .font(.title)
             .padding()
-        
+        // feature 1
         // feature 2
+        // Fix version 1.1
         // feature 3
         // feature 4
             
